@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Printing text with newline"
+
+echo -n "printing text withoutnewline"
+
+echo  "\nremoving \t backsplash \t characters"
