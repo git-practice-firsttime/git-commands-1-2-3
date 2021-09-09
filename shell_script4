@@ -1,0 +1,11 @@
+echo "i m giving animals list"
+
+ANIMALS="cat dog fish jiraffe elephant lion"
+
+for ANIMAL in $ANIMALS
+
+do 
+
+echo $ANIMAL
+
+done
